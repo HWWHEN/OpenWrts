@@ -13,4 +13,4 @@ git clone https://github.com/thinktip/luci-theme-neobird.git package/otherapp/lu
 # Mentohust
 git clone https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk.git package/otherapp/mentohust
 
-git clone https://github.com/immortalwrt/luci.git /applications/luci-app-cpufreq
+git clone https://github.com/openwrt-xiaomi/luci-app-cpufreq.git package/otherapp/luci-app-cpufreq
